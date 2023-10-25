@@ -3,7 +3,7 @@
 Olá, eu sou Cristofer Eduardo, estudante de programação Full-stack, aqui estão alguns dos meus projetos e praticas!:open_hands::rocket::rocket:
 <br>
 <br>
-Linguagens sendo estudadas atualmente:
+Linguagens estudadas e sendo aperfeiçoadas atualmente:
 <br>
 <br>
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
