@@ -1,7 +1,6 @@
 ### Hi there :pencil:
 
-Olá, eu sou Cristofer Eduardo, estudante de programação Front End, aqui estão alguns projetos meus de praticas! 
-Espero que gostem e por gentileza me ajude com suas criticas construtivas para meu aperfeiçoamento. :open_hands::rocket::rocket:
+Olá, eu sou Cristofer Eduardo, estudante de programação Full-stack, aqui estão alguns dos meus projetos e praticas!:open_hands::rocket::rocket:
 <br>
 <br>
 Linguagens sendo estudadas atualmente:
